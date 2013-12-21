@@ -12,8 +12,9 @@ done
 for repo in $(cat xmlfiles | sed "s:/.*::g" | sort -u); do
 	pushd ../$repo
 		if [ -z "`git diff master origin/HEAD 2> /dev/null`" ]; then
+			git add .
 			git commit -a -m "Translation update by Scripty."
-			# git push
+			git push
 		fi
 	popd
 done

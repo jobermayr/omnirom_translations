@@ -15,3 +15,8 @@ for i in $(cat xmlfiles); do
 		fi
 	done
 done
+
+if [ -z "`git diff master origin/HEAD 2> /dev/null`" ]; then
+	git add .
+	git commit -a -m "Add new strings by Scripty."
+fi
