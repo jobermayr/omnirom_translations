@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-12-22 00:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:3(item)
+msgid "Any direction"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:4(item)
+msgid "Direction dependent"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:8(item)
+msgid "1 button"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:9(item)
+msgid "2 buttons"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:10(item)
+msgid "3 buttons"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:14(item) ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:46(item)
+msgid "1"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:15(item)
+msgid "0"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:18(item)
+msgid "325"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:19(item)
+msgid "500"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:20(item)
+msgid "850"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:24(item)
+msgid "150 ms"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:25(item)
+msgid "200 ms"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:26(item)
+msgid "250 ms"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:27(item)
+msgid "300 ms"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:28(item)
+msgid "350 ms"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:32(item)
+msgid "150"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:33(item)
+msgid "200"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:34(item)
+msgid "250"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:35(item)
+msgid "300"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:36(item)
+msgid "350"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:40(item)
+msgid "Button area"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:41(item)
+msgid "Whole screen"
+msgstr ""
+
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:45(item)
+msgid "3690"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+
