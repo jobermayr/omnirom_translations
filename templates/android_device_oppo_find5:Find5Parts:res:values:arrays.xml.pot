@@ -1,10 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-12-22 00:33+0100\n"
+"POT-Creation-Date: 2013-12-22 14:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +30,8 @@ msgstr ""
 msgid "3 buttons"
 msgstr ""
 
-#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:14(item) ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:46(item)
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:14(item)
+#: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:46(item)
 msgid "1"
 msgstr ""
 
@@ -105,4 +107,3 @@ msgstr ""
 #: ../android_device_oppo_find5/Find5Parts/res/values/arrays.xml:0(None)
 msgid "translator-credits"
 msgstr ""
-
